@@ -9,13 +9,14 @@ The [dataset](https://www.kaggle.com/datasets/thedevastator/employee-attrition-a
 
 The primary goal of this project is to identify and understand the employment factors that most significantly impact employee attrition. Through the interactive dashboard, we aim to answer key questions such as:
 
-Which job roles exhibit higher rates of attrition?
-How does marital status influence employee retention?
-Is salary the dominant factor in attrition, or do other variables play a critical role?
-By addressing these questions, this analysis seeks to provide deeper insights into the underlying causes of attrition and help organizations design better retention strategies.
+* Which job roles exhibit higher rates of attrition?
+* How does marital status influence employee retention?
+* Is salary the dominant factor in attrition, or do other variables play a critical role?
+
+By addressing these questions, this analysis seeks to provide deeper insights into the underlying causes of attrition and help organisations design better retention strategies.
 
 ## Introduction
-This visualization leverages a variety of employment parameters to create a holistic view of attrition trends. The key factors considered in this analysis include:
+This visualisation leverages a variety of employment parameters to create a holistic view of attrition trends. The key factors considered in this analysis include:
 
 - Education Level
 - Job Role
@@ -25,7 +26,7 @@ This visualization leverages a variety of employment parameters to create a holi
 - Department
 - Salary
 
-To enhance the analysis and enable meaningful visualizations, additional derived fields were created, including:
+To enhance the analysis and enable meaningful visualisations, additional derived fields were created, including:
 
 - Salary Brackets
 - Age Brackets
@@ -33,13 +34,13 @@ To enhance the analysis and enable meaningful visualizations, additional derived
 - Attrition Rate
 - Active Employees
 
-These enhancements ensure the visualizations are more insightful and relevant to understanding attrition dynamics.
+These enhancements ensure the visualisations are more insightful and relevant to understanding attrition dynamics.
 
 ## Insights
 
 Analysing the employee attrition dataset has uncovered several critical insights:
 1.	Salary and Attrition:
-Salary emerges as a key factor influencing attrition. The salary range of $2,000–$5,000 shows the highest rate of employee attrition.
+Salary emerges as a key factor influencing attrition. The salary range of 2,000–5,000 shows the highest employee attrition rate.
 
 2.	Impact of Marital Status:
 Marital status significantly correlates with attrition. Employees who are single exhibit the highest attrition rates, followed by married and divorced individuals.
@@ -68,7 +69,7 @@ This analysis has potential for further exploration using additional factors ava
 - Distance from Home: Investigating how commute times affect employee retention.
 - Job Satisfaction Scores: Understanding the relationship between employee satisfaction and attrition.
 
-Incorporating these variables can create a more robust and comprehensive visualization, offering deeper insights into employee behavior and attrition trends.
+Incorporating these variables can create a more robust and comprehensive visualisation, offering deeper insights into employee behavior and attrition trends.
 
 ## Dashboard Demo
 Here is a glimpse of the interactive HR analytics dashboard:
